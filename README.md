@@ -1,4 +1,4 @@
-# surya-soft.com NextJS Website
+# surya-soft.com Website
 
 ## Development Environment
 
