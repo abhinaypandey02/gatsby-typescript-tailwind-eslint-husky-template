@@ -1,8 +1,8 @@
 {
-  "name": "surya-soft.com",
+  "name": "gatsby-typescript-tailwind-eslint-husky-template",
   "version": "1.0.0",
   "private": true,
-  "description": "surya",
+  "description": "gatsby-typescript-tailwind-eslint-husky-template with storybook",
   "author": "abhinay",
   "keywords": [
     "gatsby"
